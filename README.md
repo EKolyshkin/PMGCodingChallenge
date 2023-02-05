@@ -1,5 +1,7 @@
 # PMG Coding Challenge 
-My submission for the PMG Graduate Leadership Program Coding Challenge. Looking forward to share my work with the PMG team :)
+This repository holds my submission for the PMG Graduate Leadership Program Coding Challenge. It is a Python program which combined Comma-Separated Value (CSV) files into one unified file and adds a new column which stores the source filename of each item on the list.
+
+Looking forward to share my work with the PMG team :)
 
 ## Description
 For this challenge, I chose to implement my own methods to manipulate the generated CSV files, as they are ultimately plaintext. For larger and more varied files, I would use a library like Pandas and PyArrow, which may be faster.
