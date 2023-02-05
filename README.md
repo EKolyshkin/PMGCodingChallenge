@@ -7,7 +7,7 @@ For this challenge, I chose to implement my own methods to manipulate the genera
 If I had more time, I would:
   - Add more unit tests for comprehensive code coverage.
   - Create a unified class in *csv_combiner_test.py* to avoid redeclaring shared arguments.
-  - Improve the generator by adding more categories and types of items from a dictionary.
+  - Improve the generator by adding more category and item names from a dictionary.
   - Create alternative versions based on Pandas and PyArrow and compare speeds.
 
 ## Program Structure
